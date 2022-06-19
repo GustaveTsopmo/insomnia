@@ -1,0 +1,21 @@
+_id: req_4f9a393738dd42f6b9f5a45ba5ad7129
+type: Request
+parentId: fld_a497aa33b89041d6a21e740b26a0b61e
+modified: 1653402671974
+created: 1653402661934
+url: http://localhost:3300/api/farms
+name: Get All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653402661934
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,38 @@
+_id: req_d217a6a514364e95a452cd63f2e63bb2
+type: Request
+parentId: fld_e45cc9ee0d144660a79ac1cc9a5963b4
+modified: 1653206082919
+created: 1652799549324
+url: localhost:3300/api/category/6283a69e10b6db5862be16d3
+name: Edit
+description: ""
+method: PATCH
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_51605df46c734a32ab1e34de66418792
+      name: file
+      value: ""
+      description: ""
+      type: file
+      fileName: /Users/gustavetsopmo/Pictures/Flax-Seeds-Brown-Nutstop.webp
+      disabled: false
+    - id: pair_f63dd271c16d45e58aedd885d9402a5f
+      name: name
+      value: Chia Seeds
+      description: ""
+      disabled: true
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_22935c7833204a32bd3c518b7a47b73e
+authentication: {}
+metaSortKey: -1652799549324
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

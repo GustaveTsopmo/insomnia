@@ -1,0 +1,21 @@
+_id: req_c5176a33bbc44858b25c0160bc04cb38
+type: Request
+parentId: fld_984b1e254a864002a876e3d33d17d9c6
+modified: 1652365194328
+created: 1652365187040
+url: http://localhost:3300/api/ranges
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652365187040
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

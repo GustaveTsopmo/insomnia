@@ -1,0 +1,29 @@
+_id: req_719eeb6f803e4883a5534b75f95eb26c
+type: Request
+parentId: fld_a9bc7bcb3f7c4d51be60febd29951460
+modified: 1652715066626
+created: 1652358889219
+url: http://localhost:3300/api/days
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Sunday"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_73a82406a9324d5a85a1eb5baf42787f
+authentication: {}
+metaSortKey: -1652358889219
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

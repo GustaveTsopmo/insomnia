@@ -1,0 +1,21 @@
+_id: req_a822415155cc4009971c021503ab3ef6
+type: Request
+parentId: fld_9da3670da48844058b7112e835b7ef1e
+modified: 1654536649405
+created: 1654536608301
+url: localhost:3300/api/appointment/user/628d044ce08403697c0ab615
+name: Find user appointments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654536608301
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

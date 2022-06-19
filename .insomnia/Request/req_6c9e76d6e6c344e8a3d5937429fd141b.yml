@@ -1,0 +1,32 @@
+_id: req_6c9e76d6e6c344e8a3d5937429fd141b
+type: Request
+parentId: fld_94f9f2abebdc49099abaaf7a2594083a
+modified: 1653844775410
+created: 1653675770881
+url: "{{ _.base_path }}/users/6291ec14dbb12b96fdfa9205"
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "gtk",
+    	"email": "debiangtk@gmail.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_13071b8674e54472b57888a1a17cb867
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imd0ayIsInN1YiI6IjYyOTFlYzE0ZGJiMTJiOTZmZGZhOTIwNSIsImlhdCI6MTY1Mzg0NDUzMSwiZXhwIjoxNjU0NDQ5MzMxfQ.El1Mfvft1hwnqrg1OVuMYprA7nbOLPxtJeZAw6p8e2s
+metaSortKey: -1653491420486.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

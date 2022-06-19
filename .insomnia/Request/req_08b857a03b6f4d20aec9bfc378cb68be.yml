@@ -1,0 +1,32 @@
+_id: req_08b857a03b6f4d20aec9bfc378cb68be
+type: Request
+parentId: fld_984b1e254a864002a876e3d33d17d9c6
+modified: 1653380410225
+created: 1652364120196
+url: http://localhost:3300/api/ranges
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"planningId": "628b4ac61f761344f8849515",
+    	"dayId": "627cff200ac883a2b5fdc401",
+    	"start": "2022-05-12T08:00:34.589Z",
+    	"end": "2022-05-12T11:00:34.589Z"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bf56cd35077e44de84288f46eb815e5e
+authentication: {}
+metaSortKey: -1652364120196
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

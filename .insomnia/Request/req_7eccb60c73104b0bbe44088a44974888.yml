@@ -1,0 +1,35 @@
+_id: req_7eccb60c73104b0bbe44088a44974888
+type: Request
+parentId: fld_99638f978a1249a4a10dd8170baa434f
+modified: 1655056857170
+created: 1655039317764
+url: "{{ _.base_path }}/trimesters"
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Trimestre 1"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3cceee2b8ede4f2fa01ba057c6043255
+  - id: pair_320a12d7c592491c95fd118c82531305
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2NTUwMjk3ODAsImV4cCI6MTY1NTEzNzc4MCwibmJmIjoxNjU1MDI5NzgwLCJqdGkiOiJlczlPblhjTG9McnlmcEZjIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJuYW1lIjoiU0NPT01BIEFkbWluIn0.yP_-1MPUedzjUj7iUg5RT9xibhHFH_nPNXYHCvzBmf0
+metaSortKey: -1654969410667
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

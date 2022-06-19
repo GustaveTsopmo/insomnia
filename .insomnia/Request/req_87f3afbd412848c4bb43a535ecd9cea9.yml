@@ -1,0 +1,21 @@
+_id: req_87f3afbd412848c4bb43a535ecd9cea9
+type: Request
+parentId: fld_6f6359c975f54675a8cc34f25e0f0023
+modified: 1654071254199
+created: 1654071254199
+url: localhost:3300/api/laboratories/62667c212cb12b5fd9e825f2
+name: Fetch One
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653986445263
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

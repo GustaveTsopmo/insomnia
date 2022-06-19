@@ -1,0 +1,21 @@
+_id: req_ac785ba8e53f4e2ab04cc0b07b4c56bf
+type: Request
+parentId: fld_984b1e254a864002a876e3d33d17d9c6
+modified: 1652707000273
+created: 1652706982391
+url: http://localhost:3300/api/ranges/planning/627d00f60ac883a2b5fdc413
+name: Fetch by Planning ID
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652531829799
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

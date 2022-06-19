@@ -1,0 +1,29 @@
+_id: req_28ccf22bede64db19b6b8afceb838cc9
+type: Request
+parentId: fld_8b613b38e21c46a2b45e6edf0a8d20af
+modified: 1654077996380
+created: 1654076029109
+url: localhost:3300/api/plant-type/
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Potato"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c0ab3bfbef7b48a2aef33872ef8e9618
+authentication: {}
+metaSortKey: -1653994650911
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

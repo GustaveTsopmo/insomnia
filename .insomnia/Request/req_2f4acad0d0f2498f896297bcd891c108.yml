@@ -1,0 +1,21 @@
+_id: req_2f4acad0d0f2498f896297bcd891c108
+type: Request
+parentId: fld_c19c8c7e51e64b9f9874abba112d45b8
+modified: 1654324380773
+created: 1652364770107
+url: http://localhost:3300/api/planning/fetch-my-planning/624eeef8b1e06fe503ecce02
+name: Fetch user Planning
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652364770107
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,32 @@
+_id: req_1b17cd3d282a4dadb3127778b9b70960
+type: Request
+parentId: fld_2411fec0ad1543fab6f7b527387e26cd
+modified: 1655023971012
+created: 1655023727186
+url: localhost:3000/{{ _.base_path }}/auth/refresh
+name: Logout
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3cceee2b8ede4f2fa01ba057c6043255
+  - id: pair_320a12d7c592491c95fd118c82531305
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNjU1MDIxNDc3LCJleHAiOjE2NTUwMjMyNzcsIm5iZiI6MTY1NTAyMTQ3NywianRpIjoidWx1Q0NqcGFvNVo5VlJQeSIsInN1YiI6IjEiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwibmFtZSI6IlNDT09NQSBBZG1pbiJ9.-8O9V-2q5IUiz0DGNNpSWzHWqhNjCudIOTK_YeEw8dE
+metaSortKey: -1654968960513.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

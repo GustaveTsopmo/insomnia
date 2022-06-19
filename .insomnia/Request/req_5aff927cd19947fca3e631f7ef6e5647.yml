@@ -1,0 +1,21 @@
+_id: req_5aff927cd19947fca3e631f7ef6e5647
+type: Request
+parentId: fld_984b1e254a864002a876e3d33d17d9c6
+modified: 1652706991896
+created: 1652698472557
+url: http://localhost:3300/api/ranges/planning-user/624eeef8b1e06fe503ecce02
+name: Fetch by Plannin-user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652698472558
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

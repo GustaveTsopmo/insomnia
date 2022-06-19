@@ -1,0 +1,30 @@
+_id: req_b7e71314bd72458397432bd361afff2f
+type: Request
+parentId: fld_6f6359c975f54675a8cc34f25e0f0023
+modified: 1654071305605
+created: 1654071254197
+url: localhost:3300/api/agro-exprt/
+name: Edit
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Green Laboratory",
+    	"file": ""
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_038905c5148b4004a0e5e22d80e53a3b
+authentication: {}
+metaSortKey: -1653398530601
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

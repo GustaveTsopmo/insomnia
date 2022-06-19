@@ -1,0 +1,30 @@
+_id: req_4719c9429e434ec0817eab5922e7e5d0
+type: Request
+parentId: fld_622266a75c144f9d8d0b23ae83063549
+modified: 1654506316337
+created: 1652363183764
+url: http://localhost:3300/api/services/629dc1f98d0aae3c75e4bbee
+name: Edit
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Contact laboratory",
+    	"route": "AllLaboratories"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bd12b30aaa7948b18d913c3438d6ab64
+authentication: {}
+metaSortKey: -1652363183764
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

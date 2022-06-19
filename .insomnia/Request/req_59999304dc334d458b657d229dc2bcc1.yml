@@ -1,0 +1,21 @@
+_id: req_59999304dc334d458b657d229dc2bcc1
+type: Request
+parentId: fld_a0afaf033f48496891b230ccc4497258
+modified: 1653527022006
+created: 1653526898074
+url: localhost:8800/api/posts
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653491413993
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

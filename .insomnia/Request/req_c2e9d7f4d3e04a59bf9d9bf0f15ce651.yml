@@ -1,0 +1,32 @@
+_id: req_c2e9d7f4d3e04a59bf9d9bf0f15ce651
+type: Request
+parentId: fld_7e20ceb3adc84eecb882a08ce32a3da3
+modified: 1655123211923
+created: 1655114635294
+url: "{{ _.base_path }}/notes"
+name: Fetch All
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3cceee2b8ede4f2fa01ba057c6043255
+  - id: pair_320a12d7c592491c95fd118c82531305
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2NTUwMjk3ODAsImV4cCI6MTY1NTEzNzc4MCwibmJmIjoxNjU1MDI5NzgwLCJqdGkiOiJlczlPblhjTG9McnlmcEZjIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJuYW1lIjoiU0NPT01BIEFkbWluIn0.yP_-1MPUedzjUj7iUg5RT9xibhHFH_nPNXYHCvzBmf0
+metaSortKey: -1654969335641.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

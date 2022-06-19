@@ -1,0 +1,21 @@
+_id: req_ceaf26d137ba49018a23d26a96c102fc
+type: Request
+parentId: fld_a497aa33b89041d6a21e740b26a0b61e
+modified: 1653402756515
+created: 1653402685584
+url: http://localhost:3300/api/farms/user-farms/624eeef8b1e06fe503ecce02
+name: User Farms
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653400596267.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

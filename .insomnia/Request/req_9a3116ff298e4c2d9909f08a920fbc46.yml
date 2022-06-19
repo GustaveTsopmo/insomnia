@@ -1,0 +1,38 @@
+_id: req_9a3116ff298e4c2d9909f08a920fbc46
+type: Request
+parentId: fld_72836c3a5a8e4ecf82aa5baba98400b2
+modified: 1655115643701
+created: 1655042120023
+url: "{{ _.base_path }}/subjects"
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Physique",
+    	"full_name": "Sciences physiques",
+    	"level_id": 2,
+    	"coefficient": 4
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3cceee2b8ede4f2fa01ba057c6043255
+  - id: pair_320a12d7c592491c95fd118c82531305
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2NTUwMjk3ODAsImV4cCI6MTY1NTEzNzc4MCwibmJmIjoxNjU1MDI5NzgwLCJqdGkiOiJlczlPblhjTG9McnlmcEZjIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJuYW1lIjoiU0NPT01BIEFkbWluIn0.yP_-1MPUedzjUj7iUg5RT9xibhHFH_nPNXYHCvzBmf0
+metaSortKey: -1654969410667
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

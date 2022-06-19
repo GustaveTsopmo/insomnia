@@ -1,0 +1,30 @@
+_id: req_751f5a980e6d44b984002ce273a4aeb8
+type: Request
+parentId: fld_9bfbe2d5ea1c4837b20e05e4ac38b986
+modified: 1653650119002
+created: 1653503217772
+url: localhost:8800/api/login
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"login": "gtk@mail.io",
+    	"password": "2910"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c5609d89b44e4acf8a5c823067fdbeff
+authentication: {}
+metaSortKey: -1653503217772
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

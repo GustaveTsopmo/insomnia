@@ -1,0 +1,26 @@
+_id: req_29e3dfa868b441e797ba608cfca828b1
+type: Request
+parentId: fld_305e7693c98f40c08572f7194934afd0
+modified: 1654778443970
+created: 1652359344297
+url: localhost:3300/api/get-all-users
+name: Fetch All
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_f64c164da055459db928249e3eac49de
+authentication: {}
+metaSortKey: -1652359344297
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

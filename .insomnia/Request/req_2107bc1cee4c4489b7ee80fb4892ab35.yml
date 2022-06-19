@@ -1,0 +1,31 @@
+_id: req_2107bc1cee4c4489b7ee80fb4892ab35
+type: Request
+parentId: fld_3e9d1fe44990423b861fd83d2484f774
+modified: 1653381795528
+created: 1653380952527
+url: localhost:3300/api/appointment
+name: Book Appointment
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    { 
+     "user": "624eeef8b1e06fe503ecce02",
+    	"range": "628270e23b312dbb1b7779a8",
+    	"message": "Hello"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0a18a197cef140118b3fbc0d988ad751
+authentication: {}
+metaSortKey: -1653380952527
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

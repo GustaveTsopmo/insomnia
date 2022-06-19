@@ -1,0 +1,29 @@
+_id: req_1d992291b806410f8c06240ac7288f87
+type: Request
+parentId: fld_a0afaf033f48496891b230ccc4497258
+modified: 1653564558473
+created: 1653526898081
+url: localhost:8800/api/posts/628f5beb679ec38fe2088f7a
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"desc": "Description of My first post"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_13071b8674e54472b57888a1a17cb867
+authentication: {}
+metaSortKey: -1653491420486.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_ed1092697ac445a4b94d8343e08a2bf5
+type: Request
+parentId: fld_8b613b38e21c46a2b45e6edf0a8d20af
+modified: 1654077200590
+created: 1654076029103
+url: localhost:3300/api/plant-type/629733cfc195a4c9863228d5
+name: Edit
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"description": "Plant type description"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_038905c5148b4004a0e5e22d80e53a3b
+authentication: {}
+metaSortKey: -1653398530601
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

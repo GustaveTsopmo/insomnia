@@ -1,0 +1,28 @@
+_id: req_4bfb09cbef984b14a7b85013148ee986
+type: Request
+parentId: fld_ffea3ea59a0d471eb3f92350db6c5aff
+modified: 1655330007542
+created: 1654971325816
+url: "{{ _.base_path }}/auth/profile"
+name: Fetch Auth User
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_3e9285b7324440b88127f3d43259ab6b
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2NTUzMjk5NzcsImV4cCI6MTY1NTQzNzk3NywibmJmIjoxNjU1MzI5OTc3LCJqdGkiOiI2dVpzdjhDZVBrMjJQTUNYIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJuYW1lIjoiU0NPT01BIEFkbWluIn0.ZFqFMux0OPTZSN5gyX_9zt-QrykNCnBLq8eJp_EPBwA
+  disabled: false
+metaSortKey: -1654964514049.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

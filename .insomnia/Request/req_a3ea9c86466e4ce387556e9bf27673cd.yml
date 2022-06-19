@@ -1,0 +1,32 @@
+_id: req_a3ea9c86466e4ce387556e9bf27673cd
+type: Request
+parentId: fld_d96f4d391aaa4d9eb4ff97dd38f1b6e9
+modified: 1654355697666
+created: 1654096566712
+url: http://localhost:5000/predict
+name: Detect disease
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_4cedaef4cd854abfb0ab6dba4000f493
+      name: file
+      value: ""
+      description: ""
+      type: file
+      fileName: /Users/gustavetsopmo/Pictures/0d9dbf50-53a9-42b2-8b29-0360fb7dbd98___RS_Early.B_6692.jpg
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_b46f88dc243a43f798a68387034e9e83
+authentication: {}
+metaSortKey: -1654096566712
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

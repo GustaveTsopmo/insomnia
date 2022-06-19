@@ -1,0 +1,21 @@
+_id: req_111a38339ee7424497ca58832ec74a67
+type: Request
+parentId: fld_6f6359c975f54675a8cc34f25e0f0023
+modified: 1654071284710
+created: 1654071254187
+url: localhost:3300/api/agro-expert
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652965990888
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

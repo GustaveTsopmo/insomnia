@@ -1,0 +1,30 @@
+_id: req_348380c0c4264502a40631637f2292ea
+type: Request
+parentId: fld_f466b008621c4b7aadb3f7e43a8ee7d8
+modified: 1654784450197
+created: 1653675770914
+url: "{{ _.base_path }}/auth/login"
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"login": "gtk",
+    	"password": "2910"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c5609d89b44e4acf8a5c823067fdbeff
+authentication: {}
+metaSortKey: -1653503217772
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

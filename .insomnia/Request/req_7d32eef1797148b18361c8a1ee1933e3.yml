@@ -1,0 +1,21 @@
+_id: req_7d32eef1797148b18361c8a1ee1933e3
+type: Request
+parentId: fld_3061976009b745259f895908cc10b0af
+modified: 1654863105471
+created: 1654861965127
+url: localhost:3300/api/specialities
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652965990888
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

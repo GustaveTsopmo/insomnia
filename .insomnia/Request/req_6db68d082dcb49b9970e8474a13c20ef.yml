@@ -1,0 +1,21 @@
+_id: req_6db68d082dcb49b9970e8474a13c20ef
+type: Request
+parentId: fld_459d7333049246ef9bbe1d1b7b8bc75a
+modified: 1652807298943
+created: 1652807213484
+url: localhost:3300/api/products/images/201ffd6420ef197a5acae450add92ece.PNG
+name: Fetch Image
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652723741749.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

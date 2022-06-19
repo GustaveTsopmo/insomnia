@@ -1,0 +1,29 @@
+_id: req_e1be6bfd8c514695b7af050b67472989
+type: Request
+parentId: fld_facde5a5c56d4e4fa569fe822de31599
+modified: 1653254831180
+created: 1653254769220
+url: localhost:8800/api/rooms/
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Xaviera Hotel"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6136c2febc86450781b136a8040281fc
+authentication: {}
+metaSortKey: -1653243140604
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

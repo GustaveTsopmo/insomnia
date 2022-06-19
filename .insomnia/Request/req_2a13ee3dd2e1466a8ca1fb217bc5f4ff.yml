@@ -1,0 +1,32 @@
+_id: req_2a13ee3dd2e1466a8ca1fb217bc5f4ff
+type: Request
+parentId: fld_a0f594c7480b47cc8d0f7fd3f201a9ca
+modified: 1653251275027
+created: 1653248524342
+url: localhost:8800/api/auth/register
+name: Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "gtk",
+    	"password": "gtk",
+    	"email": "gtk@mail.io",
+    	"isAdmin": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b92a772479b04862bbdf780529d0e49c
+authentication: {}
+metaSortKey: -1653248524342
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

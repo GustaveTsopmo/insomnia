@@ -1,0 +1,21 @@
+_id: req_8fc568354a8f4d6ebb60076bd1b1004c
+type: Request
+parentId: fld_d96f4d391aaa4d9eb4ff97dd38f1b6e9
+modified: 1654084161726
+created: 1654084015259
+url: http://localhost:3300/api/diseases/by-user/624eeef8b1e06fe503ecce02
+name: User diseases
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654084015259
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

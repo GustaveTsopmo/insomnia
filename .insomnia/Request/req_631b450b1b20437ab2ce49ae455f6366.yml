@@ -1,0 +1,32 @@
+_id: req_631b450b1b20437ab2ce49ae455f6366
+type: Request
+parentId: fld_8b3347f2018d4e05b3823bacdf33e81a
+modified: 1655039237967
+created: 1655036167574
+url: "{{ _.base_path }}/class-rooms/5"
+name: Delete
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3cceee2b8ede4f2fa01ba057c6043255
+  - id: pair_320a12d7c592491c95fd118c82531305
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2NTUwMjk3ODAsImV4cCI6MTY1NTEzNzc4MCwibmJmIjoxNjU1MDI5NzgwLCJqdGkiOiJlczlPblhjTG9McnlmcEZjIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJuYW1lIjoiU0NPT01BIEFkbWluIn0.yP_-1MPUedzjUj7iUg5RT9xibhHFH_nPNXYHCvzBmf0
+metaSortKey: -1654969185590.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

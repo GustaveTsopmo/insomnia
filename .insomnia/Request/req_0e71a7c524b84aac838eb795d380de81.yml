@@ -1,0 +1,21 @@
+_id: req_0e71a7c524b84aac838eb795d380de81
+type: Request
+parentId: fld_f9222322ab8b4a07a65d34daff1b4ae7
+modified: 1655470696189
+created: 1655470690215
+url: https://api-checkout.cinetpay.com/v2/payment
+name: New Request
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655470690215
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

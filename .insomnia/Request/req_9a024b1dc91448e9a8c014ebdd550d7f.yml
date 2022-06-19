@@ -1,0 +1,32 @@
+_id: req_9a024b1dc91448e9a8c014ebdd550d7f
+type: Request
+parentId: fld_9bfbe2d5ea1c4837b20e05e4ac38b986
+modified: 1653643178483
+created: 1653500606705
+url: localhost:8800/api/register
+name: Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    			"name": "Debian GCK",
+    		"username": "deb",
+    		"email": "gck@mail.io",
+    	"password": "2910"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5d1b4af69b7b4055a36a2db1bb0ec250
+authentication: {}
+metaSortKey: -1653500606705
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

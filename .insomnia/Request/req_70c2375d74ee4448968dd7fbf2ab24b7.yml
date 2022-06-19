@@ -1,0 +1,29 @@
+_id: req_70c2375d74ee4448968dd7fbf2ab24b7
+type: Request
+parentId: fld_f466b008621c4b7aadb3f7e43a8ee7d8
+modified: 1653845157513
+created: 1653782264610
+url: "{{ _.base_path }}/auth/request-password-reset"
+name: Request password reset
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"login": "debiangtk@gmail.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_aa6eca3bfdb04545a1e19bce658504f5
+authentication: {}
+metaSortKey: -1653782264611
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

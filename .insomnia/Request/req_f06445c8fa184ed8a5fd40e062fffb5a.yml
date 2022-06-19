@@ -1,0 +1,21 @@
+_id: req_f06445c8fa184ed8a5fd40e062fffb5a
+type: Request
+parentId: fld_d96f4d391aaa4d9eb4ff97dd38f1b6e9
+modified: 1654084086511
+created: 1654084074162
+url: http://localhost:3300/api/diseases
+name: Fetch all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654084074162
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

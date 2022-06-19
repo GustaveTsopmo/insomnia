@@ -1,0 +1,21 @@
+_id: req_4f61d85aa7f84b5ebee9d31bfed95859
+type: Request
+parentId: fld_863a135694754cb5b45cfd7b7e9fed64
+modified: 1654188553036
+created: 1654188544618
+url: localhost:3000/
+name: Send Message
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654188544618
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

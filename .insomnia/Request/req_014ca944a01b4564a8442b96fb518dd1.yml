@@ -1,0 +1,30 @@
+_id: req_014ca944a01b4564a8442b96fb518dd1
+type: Request
+parentId: fld_6b830da557e64e7ea228c8e97eb84391
+modified: 1654960098897
+created: 1653838976055
+url: localhost:8801/
+name: Add user
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "luna@mail.com",
+    	"password": "2910"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a93aef1a733d433dbb3bd4294426b40a
+authentication: {}
+metaSortKey: -1653838976055
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

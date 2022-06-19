@@ -1,0 +1,30 @@
+_id: req_2adc5a96040c4ada8fdb052e674799c3
+type: Request
+parentId: fld_305e7693c98f40c08572f7194934afd0
+modified: 1654960087083
+created: 1654769045259
+url: http://localhost:3300/api/update-profile/624eeef8b1e06fe503ecce02
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "gustavetsopmo.gt@gmail.com",
+    	"pseudo": "gtk"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9fcf16fab6d4443c9cc8699dddcb453d
+authentication: {}
+metaSortKey: -1654769045259
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

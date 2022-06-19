@@ -1,0 +1,21 @@
+_id: req_b84486275d0c4aa5962a87443caffade
+type: Request
+parentId: fld_a0afaf033f48496891b230ccc4497258
+modified: 1653564567130
+created: 1653526898078
+url: localhost:8800/api/posts/628f5beb679ec38fe2088f7a
+name: Find One
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653491418322
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

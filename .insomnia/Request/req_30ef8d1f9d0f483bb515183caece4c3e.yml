@@ -1,0 +1,21 @@
+_id: req_30ef8d1f9d0f483bb515183caece4c3e
+type: Request
+parentId: fld_e45cc9ee0d144660a79ac1cc9a5963b4
+modified: 1655294861212
+created: 1653205463833
+url: localhost:3300/api/gallery/
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652774280132.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

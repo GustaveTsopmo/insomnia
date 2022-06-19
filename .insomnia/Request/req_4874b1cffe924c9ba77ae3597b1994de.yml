@@ -1,0 +1,21 @@
+_id: req_4874b1cffe924c9ba77ae3597b1994de
+type: Request
+parentId: fld_3e9d1fe44990423b861fd83d2484f774
+modified: 1654344973109
+created: 1653380246529
+url: localhost:3300/api/appointment
+name: My Appointments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653380246529
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

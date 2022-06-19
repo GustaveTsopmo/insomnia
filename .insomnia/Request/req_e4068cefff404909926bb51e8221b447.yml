@@ -1,0 +1,38 @@
+_id: req_e4068cefff404909926bb51e8221b447
+type: Request
+parentId: fld_72836c3a5a8e4ecf82aa5baba98400b2
+modified: 1655115879189
+created: 1655042120027
+url: "{{ _.base_path }}/subjects/3"
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Physique",
+    	"coefficient": 4,
+    	"grading_scale": 20,
+    	"level_id": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3cceee2b8ede4f2fa01ba057c6043255
+  - id: pair_320a12d7c592491c95fd118c82531305
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2NTUwMjk3ODAsImV4cCI6MTY1NTEzNzc4MCwibmJmIjoxNjU1MDI5NzgwLCJqdGkiOiJlczlPblhjTG9McnlmcEZjIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJuYW1lIjoiU0NPT01BIEFkbWluIn0.yP_-1MPUedzjUj7iUg5RT9xibhHFH_nPNXYHCvzBmf0
+metaSortKey: -1654969260615.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

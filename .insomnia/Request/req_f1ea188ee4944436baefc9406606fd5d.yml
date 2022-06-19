@@ -1,0 +1,29 @@
+_id: req_f1ea188ee4944436baefc9406606fd5d
+type: Request
+parentId: fld_3061976009b745259f895908cc10b0af
+modified: 1654862932901
+created: 1654861965142
+url: localhost:3300/api/specialities/
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"libelle": "Seeds analysis"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c0ab3bfbef7b48a2aef33872ef8e9618
+authentication: {}
+metaSortKey: -1653994650911
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

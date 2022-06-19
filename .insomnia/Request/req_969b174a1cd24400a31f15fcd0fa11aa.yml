@@ -1,0 +1,21 @@
+_id: req_969b174a1cd24400a31f15fcd0fa11aa
+type: Request
+parentId: fld_f466b008621c4b7aadb3f7e43a8ee7d8
+modified: 1653845132465
+created: 1653845132465
+url: ""
+name: Reset Password
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653845132465
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

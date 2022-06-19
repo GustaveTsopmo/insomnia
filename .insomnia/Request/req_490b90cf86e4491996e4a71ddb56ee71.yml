@@ -1,0 +1,31 @@
+_id: req_490b90cf86e4491996e4a71ddb56ee71
+type: Request
+parentId: fld_a497aa33b89041d6a21e740b26a0b61e
+modified: 1653405878021
+created: 1653404095667
+url: http://localhost:3300/api/farms/add-user/6256e6352c3ab42927c483dc
+name: Add user
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    { 
+    	"name": "Mannn",
+    	"phone": "+23490907810",
+    	"profileId": "624ec198a7f84d5eaa211988"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_64903001ac2c4b5db6422a37d62a6cea
+authentication: {}
+metaSortKey: -1653404095667
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

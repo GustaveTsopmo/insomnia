@@ -1,0 +1,32 @@
+_id: req_7f303cfa98b441918a8f36959fc18b0e
+type: Request
+parentId: fld_9bfbe2d5ea1c4837b20e05e4ac38b986
+modified: 1654960102871
+created: 1653642130567
+url: localhost:8800/api/login
+name: Local Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    { 
+    	"username": "gtk",
+    	"password": "gtk"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_60f833b980e04d24ae5d6395357984a8
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NTM2NDMxODEsImV4cCI6MTY1MzY0MzI0MX0.VChyet_TJBYeWyHedX5tcLV8hI6gZRcDtdRhnhtFl2Q
+metaSortKey: -1653642130567
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

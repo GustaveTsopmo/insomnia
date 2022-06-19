@@ -1,0 +1,29 @@
+_id: req_1af7c59c22fb4db787679dfd69c79445
+type: Request
+parentId: fld_6f6359c975f54675a8cc34f25e0f0023
+modified: 1654340801256
+created: 1654071254202
+url: localhost:3300/api/agro-expert/
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"name": "Gustave Topmo expert", "city": "Yaounde", "country": "cameroun", "email": "labynde@gmail.com", "phone": "2829202", "specialite": "Seed analyzer"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c0ab3bfbef7b48a2aef33872ef8e9618
+authentication: {}
+metaSortKey: -1653994650911
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

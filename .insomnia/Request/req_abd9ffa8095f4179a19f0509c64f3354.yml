@@ -1,0 +1,30 @@
+_id: req_abd9ffa8095f4179a19f0509c64f3354
+type: Request
+parentId: fld_a0afaf033f48496891b230ccc4497258
+modified: 1653565860812
+created: 1653526924042
+url: http://localhost:8800/api/posts
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user": "628ebb01a953abaf35bdd6cf",
+    	"desc": "Doloro ipsum post"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e234bd621a0a462da09e132d5870bc60
+authentication: {}
+metaSortKey: -1653526924042
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

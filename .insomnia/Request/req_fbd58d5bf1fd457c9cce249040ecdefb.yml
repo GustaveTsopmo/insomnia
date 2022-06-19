@@ -1,0 +1,36 @@
+_id: req_fbd58d5bf1fd457c9cce249040ecdefb
+type: Request
+parentId: fld_86788d48dab245b4b0844f5a78d6a0f6
+modified: 1653246423174
+created: 1653244963777
+url: localhost:8800/api/hotels
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Hotel le Leadder",
+    	"type": "hotel",
+    	"city": "Douala",
+    	"address": "missoke",
+    	"distance": "500",
+    	"title": "Best hotel in the city",
+    	"desc": "description here",
+    	"cheapestPrice": 100
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6136c2febc86450781b136a8040281fc
+authentication: {}
+metaSortKey: -1653243140629
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

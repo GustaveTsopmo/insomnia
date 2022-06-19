@@ -1,0 +1,24 @@
+_id: req_c999e341113a475c80c2aa95a05bb15e
+type: Request
+parentId: fld_99a612837ab64452a188e111b419eb41
+modified: 1653650629264
+created: 1653644039998
+url: localhost:8800/api/users/profile
+name: Profile
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NTM2NDk5MDMsImV4cCI6MTY1MzY0OTk2M30.lbO3qSizE_x8nxtraUkz6Xw6MMccTO27MqOJ3PHAVNQ
+  disabled: false
+metaSortKey: -1653491416157.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

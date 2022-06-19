@@ -1,0 +1,36 @@
+_id: req_ef3d16886a5a4a80a53800dc65f39927
+type: Request
+parentId: fld_459d7333049246ef9bbe1d1b7b8bc75a
+modified: 1653205198450
+created: 1652878396935
+url: localhost:3300/api/products/6284da74343b37343b1072e5
+name: Edit
+description: ""
+method: PATCH
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: file
+      value: ""
+      id: pair_fd8dc805d73a47e3bdc57d890fd08cee
+      type: file
+      fileName: /Users/gustavetsopmo/Pictures/Bean_Asparagus_Yard_Long_Red_Seeded_CD_ac236676-5f96-47da-9a5d-c5f89f7b84b6@2x.jpg
+      disabled: false
+    - id: pair_60dba168017e4f43b37aeca56095619e
+      name: name
+      value: Beans seed
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_e6f26332de58485fa760497ceb55ab6a
+authentication: {}
+metaSortKey: -1652878396935
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

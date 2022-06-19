@@ -1,0 +1,29 @@
+_id: req_88944cdaa1004df1879a35418c67520a
+type: Request
+parentId: fld_0f3db2722ffd41ebac99b07537a28a52
+modified: 1653251363028
+created: 1653251270605
+url: localhost:8800/api/users/628a945e20b8063240b56f26
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "gck"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e4da5bb566684f07bd90072e87ee02e7
+authentication: {}
+metaSortKey: -1653251270605
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

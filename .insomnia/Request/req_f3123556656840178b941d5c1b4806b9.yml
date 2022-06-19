@@ -1,0 +1,33 @@
+_id: req_f3123556656840178b941d5c1b4806b9
+type: Request
+parentId: fld_facde5a5c56d4e4fa569fe822de31599
+modified: 1653255207336
+created: 1653254769212
+url: localhost:8800/api/rooms/628a87563782e73379630691
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title": "King Room",
+    	"desc": "King size bed, 1 bathroom, balcony",
+    	"price": 100,
+    	"maxPeople": 2,
+    	"roomNumbers": [{"number": 101}, {"number": 102}]
+    } 
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6136c2febc86450781b136a8040281fc
+authentication: {}
+metaSortKey: -1653243140629
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

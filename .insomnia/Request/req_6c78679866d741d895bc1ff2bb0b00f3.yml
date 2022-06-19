@@ -1,0 +1,31 @@
+_id: req_6c78679866d741d895bc1ff2bb0b00f3
+type: Request
+parentId: fld_99a612837ab64452a188e111b419eb41
+modified: 1653561208484
+created: 1653492324666
+url: localhost:8800/api/users/628ebb01a953abaf35bdd6cf
+name: Update
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"password": "2910",
+    	"desc": "Hello i am Gustave.",
+    	"email": "GTK@mail.io"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_13071b8674e54472b57888a1a17cb867
+authentication: {}
+metaSortKey: -1653491420486.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

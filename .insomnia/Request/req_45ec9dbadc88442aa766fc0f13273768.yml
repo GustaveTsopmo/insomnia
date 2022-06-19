@@ -1,0 +1,21 @@
+_id: req_45ec9dbadc88442aa766fc0f13273768
+type: Request
+parentId: fld_305e7693c98f40c08572f7194934afd0
+modified: 1654769708996
+created: 1654769275294
+url: http://localhost:3300/api/avatar/default-avatar.png
+name: Fetch avatar
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654769275294
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

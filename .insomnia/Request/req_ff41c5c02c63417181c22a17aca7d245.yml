@@ -1,0 +1,29 @@
+_id: req_ff41c5c02c63417181c22a17aca7d245
+type: Request
+parentId: fld_a497aa33b89041d6a21e740b26a0b61e
+modified: 1653476892224
+created: 1653402770297
+url: http://localhost:3300/api/farms/update-user/6256e6352c3ab42927c483dc/628cf530a82e8b573797989b
+name: Edit user
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"profileId": "624ec36d730d70f49a5209a1"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_be7c90cad096462a90a94055f5c765b3
+authentication: {}
+metaSortKey: -1653402770297
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

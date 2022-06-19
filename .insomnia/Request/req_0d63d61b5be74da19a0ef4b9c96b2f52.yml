@@ -1,0 +1,32 @@
+_id: req_0d63d61b5be74da19a0ef4b9c96b2f52
+type: Request
+parentId: fld_f466b008621c4b7aadb3f7e43a8ee7d8
+modified: 1653822599299
+created: 1653675770911
+url: "{{ _.base_path }}/auth/register"
+name: Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Gustave TSOPMO",
+    	"username": "gtk",
+    	"email": "gtk@mail.io",
+    	"password": "2910"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5d1b4af69b7b4055a36a2db1bb0ec250
+authentication: {}
+metaSortKey: -1653500606705
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_55e78dfc831f441d9e0a1e4cb8c7b6cc
+type: Request
+parentId: fld_916f86db7f0b44a9b53049f5872bde0b
+modified: 1653821793867
+created: 1653745996029
+url: "{{ _.base_path }}"
+name: Hello
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653745996029
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

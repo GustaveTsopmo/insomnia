@@ -1,0 +1,21 @@
+_id: req_8525a6b818754351a982a8eb7908e255
+type: Request
+parentId: fld_a9bc7bcb3f7c4d51be60febd29951460
+modified: 1652359027399
+created: 1651932444754
+url: http://localhost:3300/api/days
+name: Fetch all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652358889169
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

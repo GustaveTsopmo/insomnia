@@ -1,0 +1,29 @@
+_id: req_b83475b96ae74c2181c1f1639285daba
+type: Request
+parentId: fld_622266a75c144f9d8d0b23ae83063549
+modified: 1654865689718
+created: 1652363250213
+url: http://localhost:3300/api/services/
+name: Fetch all
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"typeservice": "Services"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_bd12b30aaa7948b18d913c3438d6ab64
+authentication: {}
+metaSortKey: -1652361264030.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

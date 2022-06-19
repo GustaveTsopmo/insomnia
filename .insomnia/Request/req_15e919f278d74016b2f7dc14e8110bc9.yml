@@ -1,0 +1,21 @@
+_id: req_15e919f278d74016b2f7dc14e8110bc9
+type: Request
+parentId: fld_3026847967d84e2191ce40271bffeace
+modified: 1653402985317
+created: 1653402943662
+url: http://localhost:3300/api/profil
+name: Get All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653402943662
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_89110efb3b0a4a4db350bb9aa1ca2def
+type: Request
+parentId: fld_a0afaf033f48496891b230ccc4497258
+modified: 1653565834898
+created: 1653526898086
+url: localhost:8800/api/posts/628f5beb679ec38fe2088f7a/like
+name: Like
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": "628ebb01a953abaf35bdd6cf"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3f697a60bbb6438683fec274dcbb44da
+authentication: {}
+metaSortKey: -1653520193246
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

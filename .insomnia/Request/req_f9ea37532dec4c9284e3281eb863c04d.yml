@@ -1,0 +1,29 @@
+_id: req_f9ea37532dec4c9284e3281eb863c04d
+type: Request
+parentId: fld_e173861c36524a4283b2cea8ad20b557
+modified: 1654865726143
+created: 1653398530601
+url: localhost:3300/api/laboratories/62667c212cb12b5fd9e825f2
+name: Edit
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"specialite": ["62a3344467ed4dca9d5a5b38"]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_038905c5148b4004a0e5e22d80e53a3b
+authentication: {}
+metaSortKey: -1653398530601
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

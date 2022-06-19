@@ -1,0 +1,21 @@
+_id: req_c146063510b54469bbc78f132f135702
+type: Request
+parentId: fld_622266a75c144f9d8d0b23ae83063549
+modified: 1654504159293
+created: 1652363495705
+url: http://localhost:3300/api/services/type/Services
+name: Fetch Services
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1652363495705
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

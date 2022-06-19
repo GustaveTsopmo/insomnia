@@ -1,0 +1,34 @@
+_id: req_522c2a5ec91942eeaf7739f97eb30e79
+type: Request
+parentId: fld_2411fec0ad1543fab6f7b527387e26cd
+modified: 1655470641864
+created: 1654969410667
+url: "{{ _.base_path }}/auth/login"
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"login": "scoomaadmin",
+    	"password": "admin"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3cceee2b8ede4f2fa01ba057c6043255
+  - id: pair_320a12d7c592491c95fd118c82531305
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1654969410667
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

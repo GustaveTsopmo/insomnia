@@ -1,0 +1,21 @@
+_id: req_81e98eb14e9a4650be132213818a1f4c
+type: Request
+parentId: fld_94f9f2abebdc49099abaaf7a2594083a
+modified: 1653821925650
+created: 1653675770874
+url: "{{ _.base_path }}/users"
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653491413993
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

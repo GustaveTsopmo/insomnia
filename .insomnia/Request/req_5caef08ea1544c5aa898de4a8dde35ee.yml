@@ -1,0 +1,21 @@
+_id: req_5caef08ea1544c5aa898de4a8dde35ee
+type: Request
+parentId: fld_e173861c36524a4283b2cea8ad20b557
+modified: 1654530072807
+created: 1653206743858
+url: localhost:3300/api/laboratories/by-user/624eeef8b1e06fe503ecce02
+name: Fetch user labs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653206743858
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_b230dcafe63240c890e76b3cff6b7ce5
+type: Request
+parentId: fld_facde5a5c56d4e4fa569fe822de31599
+modified: 1653254803648
+created: 1653254769224
+url: localhost:8800/api/rooms
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653246367741
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_d0aa5c9c006d457c89d668a89364d6f4
+type: Request
+parentId: fld_86788d48dab245b4b0844f5a78d6a0f6
+modified: 1653247813671
+created: 1653246367741
+url: localhost:8800/api/hotels
+name: Fetch All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653246367741
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

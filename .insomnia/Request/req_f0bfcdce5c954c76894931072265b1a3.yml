@@ -1,0 +1,29 @@
+_id: req_f0bfcdce5c954c76894931072265b1a3
+type: Request
+parentId: fld_99a612837ab64452a188e111b419eb41
+modified: 1653561219514
+created: 1653520193246
+url: localhost:8800/api/users/628ebb1da953abaf35bdd6d3/follow
+name: Follow
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": "628ebb01a953abaf35bdd6cf"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3f697a60bbb6438683fec274dcbb44da
+authentication: {}
+metaSortKey: -1653520193246
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

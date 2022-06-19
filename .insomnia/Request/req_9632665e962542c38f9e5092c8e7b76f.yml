@@ -1,0 +1,29 @@
+_id: req_9632665e962542c38f9e5092c8e7b76f
+type: Request
+parentId: fld_99a612837ab64452a188e111b419eb41
+modified: 1653526635540
+created: 1653521907674
+url: localhost:8800/api/users/628ebb1da953abaf35bdd6d3/unfollow
+name: Un Follow
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": "628ebb01a953abaf35bdd6cf"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3f697a60bbb6438683fec274dcbb44da
+authentication: {}
+metaSortKey: -1653519039963
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

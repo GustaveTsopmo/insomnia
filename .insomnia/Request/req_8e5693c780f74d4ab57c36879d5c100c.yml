@@ -1,0 +1,29 @@
+_id: req_8e5693c780f74d4ab57c36879d5c100c
+type: Request
+parentId: fld_e173861c36524a4283b2cea8ad20b557
+modified: 1653994922189
+created: 1653994650911
+url: localhost:3300/api/laboratories/
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"name": "Lab ynde", "city": "Yaounde", "country": "cameroun", "email": "labynde@gmail.com", "phone": "2829202","agreement": "wercd", "numcontrib": "34erond"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c0ab3bfbef7b48a2aef33872ef8e9618
+authentication: {}
+metaSortKey: -1653994650911
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

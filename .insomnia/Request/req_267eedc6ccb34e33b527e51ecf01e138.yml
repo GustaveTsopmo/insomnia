@@ -1,0 +1,24 @@
+_id: req_267eedc6ccb34e33b527e51ecf01e138
+type: Request
+parentId: fld_94f9f2abebdc49099abaaf7a2594083a
+modified: 1653821875368
+created: 1653675770905
+url: "{{ _.base_path }}/api/auth/profile"
+name: Profile
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiR3VzdGF2ZSBUU09QTU8iLCJsb2dpbiI6Imd0ayIsImVtYWlsIjoiZ3RrQG1haWwuaW8iLCJ1c2VybmFtZSI6Imd0ayIsInN1YiI6IjYyOTFlYzE0ZGJiMTJiOTZmZGZhOTIwNSIsImlhdCI6MTY1Mzc0MTk3NCwiZXhwIjoxNjU0MzQ2Nzc0fQ.Zrpgc4iRNNrC7Rlcm8pkKOU-_9yx1WLy5j7c2HPs9eo
+  disabled: false
+metaSortKey: -1653491416157.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

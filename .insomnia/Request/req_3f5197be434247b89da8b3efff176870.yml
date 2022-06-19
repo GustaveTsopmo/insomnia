@@ -1,0 +1,38 @@
+_id: req_3f5197be434247b89da8b3efff176870
+type: Request
+parentId: fld_ffea3ea59a0d471eb3f92350db6c5aff
+modified: 1655110946254
+created: 1655061423343
+url: "{{ _.base_path }}/users"
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Student 2",
+    	"role_id": 2,
+    	"class_room_id": 2
+    }
+parameters: []
+headers:
+  - id: pair_3e9285b7324440b88127f3d43259ab6b
+    name: Accept
+    value: application/json
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_d4659d1d3a314952b2b47dc13470a5b5
+authentication:
+  type: bearer
+  token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE2NTUwMjk3ODAsImV4cCI6MTY1NTEzNzc4MCwibmJmIjoxNjU1MDI5NzgwLCJqdGkiOiJlczlPblhjTG9McnlmcEZjIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJuYW1lIjoiU0NPT01BIEFkbWluIn0.yP_-1MPUedzjUj7iUg5RT9xibhHFH_nPNXYHCvzBmf0
+  disabled: false
+metaSortKey: -1654968810512
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

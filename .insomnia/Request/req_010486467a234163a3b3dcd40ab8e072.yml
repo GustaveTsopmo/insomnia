@@ -1,0 +1,30 @@
+_id: req_010486467a234163a3b3dcd40ab8e072
+type: Request
+parentId: fld_c19c8c7e51e64b9f9874abba112d45b8
+modified: 1654274843976
+created: 1652359277082
+url: http://localhost:3300/api/planning
+name: Add
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"userId": "624eeef8b1e06fe503ecce02",
+    	"description": "My Second planning"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8205a2d22de04a0b8e03685e14f28acf
+authentication: {}
+metaSortKey: -1652359061959
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
