@@ -1,0 +1,18 @@
+_id: env_b7c9189bacee0b40cd6f17f18d987e8d2a6b1ce4
+type: Environment
+parentId: wrk_919ff7ee825042d9993a42637a575b80
+modified: 1654960337981
+created: 1651932444745
+name: Base Environment
+data:
+  schema: http
+  host: http://localhost:8000
+  base_path: http://localhost:8000/api
+dataPropertyOrder:
+  "&":
+    - schema
+    - host
+    - base_path
+color: null
+isPrivate: false
+metaSortKey: 1651932444745
